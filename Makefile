@@ -1,0 +1,2 @@
+all: assign_shell_main.c assign_runcommand.c assign_background.c assign_foreground.c assign_utilities.c
+	gcc assign_shell_main.c assign_runcommand.c assign_background.c assign_foreground.c assign_utilities.c
