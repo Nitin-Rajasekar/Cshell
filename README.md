@@ -2,6 +2,8 @@
 
 Run `make` to build and generate the a.out executable
 
+---
+
 ### File breakdown
 
 <p>assign_runcommand.c contains the runcommand() function which is the primary function to resolve commands after they are parsed, includes echo, cd, pwd, ls and directs to the procedures for foreground and background processes.</p>
